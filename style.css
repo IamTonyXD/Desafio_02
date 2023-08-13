@@ -1,0 +1,50 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align:center;
+}
+
+#main img {
+  margin: 64px auto 32px;
+}
+
+h1 {
+  color: #3F3D56;
+  font-weight: normal;
+  font-size: 32px;
+  margin: 0 auto 16px;
+}
+
+h1 span {
+  color: #EE24FF;
+  font-weight: bold;
+}
+
+p {
+  color: #828282;
+  margin: 0 auto 64px;
+  font-size: 15px;
+}
+
+p span, #footer {
+  color: #3F3D56;
+  font-weight: bold;
+}
+
+.line {
+  width: 391px;
+    height: 0;
+
+    margin: 0 auto 16px;
+
+    border: 1px solid #ECEFF2;
+}
+
+#footer a {
+  margin-left: 28px;
+  font-size: 15px;
+}
+
+#wave {
+  position: static;
+  margin: 40.83px auto 0px;
+}
